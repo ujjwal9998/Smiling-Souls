@@ -1,7 +1,7 @@
 # SmilingSoul 
 
 ## About
-A web app built to connect students with Counsellors at Guidance and Counselling Services, IIT Mandi. The app was made during Frosthack (intra college hackathon) organised by programming club, IIT Mandi. The app allows students to find counsellors and book available slots with them. Students can join the google meet in their booked time slot with the link provided in the app itself. Technologies used: python, flask, Mysql, jinja2.
+A web app built to connect students with Counsellors at Guidance and Counselling Services, IIT Mandi.The app allows students to find counsellors and book available slots with them. Students can join the google meet in their booked time slot with the link provided in the app itself. Technologies used: python, flask, Mysql, jinja2.
 ## How to run the code
 1. Clone the repository or Download all the files
 2. Install the required dependecies
